@@ -1,0 +1,247 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+header{
+	padding: 0;
+}
+.logo{
+	width: 190px;
+}
+.menu ul li a{
+	margin-bottom: 6px;
+	padding: 0 10px !important;
+}
+.btn_sign{
+	margin-left: 5px;
+}
+/*banner start*/
+.banner {
+    padding: 10px 0 60px;
+}
+.b_contant{
+	text-align: center;
+}
+.b_h1{
+	padding: 0;
+	font-size: 30px;
+	line-height: 45px;
+}
+.b_p2 {
+    padding: 0;
+    line-height: 30px;
+}
+}
+.b_img{
+	margin-bottom: 30px;
+	padding: 0 50px;
+}
+/*feature start*/
+.feature{
+	padding: 0 0 60px;
+}
+.f_item{
+	margin: 35px 0 0;
+	padding: 45px 0 40px;	
+}
+.f_img{
+	width: 65px;
+	height: 70px;
+}
+.f_h2{
+	font-size: 20px;
+	line-height: 30px;
+}
+/*testimony start*/
+.testimony{
+	padding-bottom: 60px;
+}
+.t_item{
+	margin-top: 30px;
+}
+.t_img{
+	padding: 0 50px 20px !important;
+}
+.t_test{
+	text-align: center;
+}
+/*footer top start*/
+.footer_top{
+	text-align: center;
+	padding: 55px 0 25px;
+}
+.ft_detailes{
+	margin-bottom: 35px;
+	padding-right: 0
+}
+.ft_links{
+	margin-bottom: 35;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+header{
+	padding: 0;
+}
+.logo{
+	width: 190px;
+}
+.menu ul li a{
+	margin-bottom: 6px;
+	padding: 0 10px !important;
+}
+.btn_sign{
+	margin-left: 5px;
+}
+/*banner start*/
+.banner {
+    padding: 10px 0 60px;
+}
+.b_contant{
+	text-align: center;
+}
+.b_h1{
+	padding: 0 70px;
+	font-size: 40px;
+	line-height: 55px;
+}
+.b_p2 {
+    padding: 0 30px;
+    line-height: 30px;
+}
+}
+.b_img{
+	margin-bottom: 30px;
+	padding: 0 50px;
+}
+/*feature start*/
+.feature{
+	padding: 0 0 60px;
+}
+.f_item{
+	margin: 35px 0 0;
+	padding: 45px 0 40px;	
+}
+.f_img{
+	width: 65px;
+	height: 70px;
+}
+.f_h2{
+	font-size: 20px;
+	line-height: 30px;
+}
+/*testimony start*/
+.testimony{
+	padding-bottom: 60px;
+}
+.t_item{
+	margin-top: 30px;
+}
+.t_img{
+	padding: 0 120px 20px;
+}
+.t_test{
+	text-align: center;
+}
+/*footer top start*/
+.footer_top {
+    text-align: center;  
+}
+.ft_detailes{
+	margin-bottom: 35px;
+	padding-right: 70px;
+	padding-left: 70px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.menu ul li a{
+	margin-bottom: 6px;
+	padding: 0 10px !important;
+}
+.btn_sign{
+	margin-left: 5px;
+}
+/*banner start*/
+.b_contant{
+	text-align: center;
+}
+.b_h1{
+	padding: 0 100px;
+}
+.b_p2 {
+    padding: 0 60px;
+}
+.b_img{
+	margin-bottom: 30px;
+	padding: 0 70px;
+}
+/*feature start*/
+.feature{
+	padding: 0 0 80px;
+}
+/*testimony start*/
+.testimony{
+	padding-bottom: 80px;
+}
+.t_item{
+	margin-top: 40px;
+}
+/*footer top start*/
+.footer_top {
+    text-align: center;  
+}
+.ft_detailes{
+	margin-bottom: 35px;
+	padding-right: 80px;
+	padding-left: 80px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+.f_h2{
+	font-size: 20px;
+}
+.footer_top{
+	text-align: left;
+}
+.ft_detailes{
+	margin-bottom: 35px;
+	padding-right: 60px;
+	padding-left: 60px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+.footer_top{
+	text-align: left;
+}
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+/*banner start*/
+.b_h1{
+	margin: 10px 0 20px;
+	padding-right: 110px;
+}
+.b_p2{
+	padding-right: 100px;
+}
+/*footer top start*/
+..ft_detailes{
+	padding-right: 130px;
+}
+.footer_top{
+	text-align: left;
+}
+
+
+}
